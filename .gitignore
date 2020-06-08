@@ -1,0 +1,10 @@
+*
+!include
+!include/**
+!obj
+!obj/**
+!src
+!src/**
+!.gitignore
+!CMakeLists.txt
+!README.md
